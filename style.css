@@ -37,13 +37,13 @@
 }
 .container { 
   text-align: center;
-  height: 10vh
+  height: 5vh
 }
 
 .title {
   font-family: "Montserrat", sans-serif;
   font-weight: 800;
-  font-size: 8.5vw;
+  font-size: 6.5vw;
   text-transform: uppercase;
 }
 
@@ -62,7 +62,7 @@
 
 .main{
     background-image:var(--color-bg);
-    min-height: 60vh;
+    min-height: 85vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
